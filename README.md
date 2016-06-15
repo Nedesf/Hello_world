@@ -1,8 +1,3 @@
 # Hello_world
 Hello, world!
-
-LOL IM A TEST GUY dont worry!1Q!1;
-
-# you
-
-#you
+My name is World-y and I was born 15.06.16 on GitHub.
